@@ -1,0 +1,22 @@
+
+
+.img-container {
+    float: left;
+    margin-right: 30px;
+    overflow: hidden;
+    position: relative;
+    width: 25%;
+}
+
+.img-container:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.img {
+    border-radius: 50%;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}

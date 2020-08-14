@@ -35,6 +35,7 @@ https://material.io/resources/color/#!/?view.left=0&view.right=0
 Fonts: \
 https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120 \
 https://www.colorsandfonts.com/ \
+https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380 \
  \
 Hero generator: \
 https://hero-generator.netlify.app/

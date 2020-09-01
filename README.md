@@ -31,6 +31,9 @@ https://coolors.co/  \
 https://visme.co/blog/website-color-schemes/ \
 https://www.materialpalette.com/ \
 https://material.io/resources/color/#!/?view.left=0&view.right=0 \
+https://flatuicolors.com/ \
+http://bootflat.github.io/color-picker.html \
+http://www.flatuicolorpicker.com/ \
 \
 Fonts: \
 https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120 \
